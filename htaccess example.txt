@@ -1,0 +1,5 @@
+ErrorDocument 400 /modules/errorhandler/index.php
+ErrorDocument 401 /modules/errorhandler/index.php
+ErrorDocument 403 /modules/errorhandler/index.php
+ErrorDocument 404 /modules/errorhandler/index.php
+ErrorDocument 500 /modules/errorhandler/index.php

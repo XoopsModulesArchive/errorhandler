@@ -1,0 +1,19 @@
+Para instalar o módulo errorhandler:
+	1. Copiar todo o conteúdo do arquivo zip para um diretório descompactar "errorhandler" 
+		em seu diretório modules, copiar a pasta errorhandler e todo seu conteúdo, incluindo sub-diretórios.
+	2. Copiar o exemplo de htaccess que seria o arquivo example.txt para o seu raiz.
+		(e.g. meu raiz web dir é www). Se careful não
+	   para gravar em seu .htaccess arquivo se voce já possuir um.  
+		If you do, just append the contents of this
+	   file or change your ErrorDocument handler in your current .htaccess file.
+	3. Chmod 777 the modules/errorhandler/logs directory.
+	4. Activate the errorhandler module from the admin menu.
+	5. Edit the config.php and change some of the settings to suit your taste.
+	
+That's it!  It should not be up and running.  
+If your site is not english, just translate the english.php in the
+language directory and to whateverlanguate.php and your messages are now translated
+
+Enjoy,
+Eric Caldwell
+eric.caldwell@boardjive.com
